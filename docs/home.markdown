@@ -1,8 +1,10 @@
+---
 layout: page
 title: "HOME"
 permalink: /home/
-
+---
 <html>
 <title> "HELLO WORLD -- This site is under construction by mbaltaxe. Hang tight!" </title>
 
 </html>
+
